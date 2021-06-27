@@ -20,12 +20,15 @@ The file in the Model folder is FGModel.java which is in charge of the connectio
 The other files which are in charge of displaying the visuality of the project.
 
 **3. Prerequisite**
+
 Pre-aquired programs to be installed before initial running: Flight Gear (the flight simulator) to display the plane's movement according to the user.
 
 **4. Further Documentation**
+
 The UML file which represents the connection between the different components in the project:
 
 ![image](https://user-images.githubusercontent.com/73580442/123557553-245de200-d79a-11eb-8132-87dabcc94584.png)
 
 **5.Video**
+
 Link to the video of the presentation: https://drive.google.com/file/d/1DLussnJwM9saTJXLhJ0vHegNNSGvRbXT/view?usp=sharing
